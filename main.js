@@ -24,20 +24,21 @@ console.log(2 * 4); // Multiplication
 console.log(16 / 2); // Division
 let favoriteNumber = 9;
 console.log(`My favorite number is ${favoriteNumber}.`);
-day four 4th challenge.
-My bestfriend name is neha.
+// day four 4th challenge.
+// My bestfriend name is neha.
 let myfriend = "neha";
 console.log(`hey ${myfriend}, how are u`);
 // Ume tehreem date of birth 24,6,2004.
-// let myName = "Ume tehreem";
-// let number = "24,6,2004";
-// console.log(`its ${myName}, date of birth ${number};
-// let names = ["rubab", "esha", "muskan"];
-// for (let i = 0; i <
-//     names.length; i++) {
-//     console.log(names[i]);
-// }
-// let array = ["rubab", "esha", "muskan"];
-// for (let name of array) {
-//   console.log(`Hello ${name}, how are you?`)
-// };
+let myName = "Ume tehreem";
+let number = "24,6,2004";
+console.log(`its ${myName}, date of birth ${number}`);
+let names = ["rubab", "esha", "muskan"];
+for (let i = 0; i <
+    names.length; i++) {
+    console.log(names[i]);
+}
+let array = ["rubab", "esha", "muskan"];
+for (let name of array) {
+    console.log(`Hello ${name}, how are you?`);
+}
+;
