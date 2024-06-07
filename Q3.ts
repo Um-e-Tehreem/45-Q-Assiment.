@@ -1,4 +1,4 @@
-// Q3: Name Cases: Store a persons name in a variable, and then print that persons name in lowercase,
+// Qquestion3: Name Cases: Store a persons name in a variable, and then print that persons name in lowercase,
 // uppercase, and titlecase.
 
 // Ans:

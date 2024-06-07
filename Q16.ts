@@ -1,5 +1,5 @@
-//Question16:
-//More Guest:you have found a bigger dinner table, so there's room for more guest.
+// Question16:
+// More Guest:you have found a bigger dinner table, so there's room for more guest.
 
 // Ans:
 
