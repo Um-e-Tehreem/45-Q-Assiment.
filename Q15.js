@@ -1,5 +1,5 @@
 "use strict";
-//Question15:
+// Question15:
 // Changing Guest List: One of your guests can't make it to the dinner,
 // so you need to send out a new set of invitation with a replacement guest.
 Object.defineProperty(exports, "__esModule", { value: true });

@@ -1,5 +1,5 @@
 "use strict";
-//Question21:
+// Question21:
 // Think of something you could store in a typescript objects.
 // Write a program that creates object containing these items.
 Object.defineProperty(exports, "__esModule", { value: true });

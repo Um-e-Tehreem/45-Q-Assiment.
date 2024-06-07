@@ -1,5 +1,5 @@
 "use strict";
-//Question7
+// Question7
 // Number Eight:Write addition, subtraction, multipication, and division oprations.
 // that each result in the number 8. Enclose you operations in print statements.
 Object.defineProperty(exports, "__esModule", { value: true });

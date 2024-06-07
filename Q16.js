@@ -1,6 +1,6 @@
 "use strict";
-//Question16:
-//More Guest:you have found a bigger dinner table, so there's room for more guest.
+// Question16:
+// More Guest:you have found a bigger dinner table, so there's room for more guest.
 Object.defineProperty(exports, "__esModule", { value: true });
 // Ans:
 let guestList = ["Mehak", "Manahil", "Mehreen", "Shaheer", "Fizza"];

@@ -1,6 +1,6 @@
 // Question5:
 // Famous Qoute2: repeat exercise 1,but this time store the famous person's name in a variable called famous-person.
-// Then compose your message and store it in a new variable called message.
+// Then compose your message and store it in a new variable called message
 
 // Ans:
 

@@ -1,5 +1,5 @@
 "use strict";
-//Question17:
+// Question17:
 // Shrinking Guest List:Unfortunately, your new table won't arrive in time,
 // and you can invite only two guests.
 Object.defineProperty(exports, "__esModule", { value: true });
